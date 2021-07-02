@@ -1,6 +1,6 @@
 class CoolWorld
 {
 public static void main(String[] args){
-    System.out.println("Coorld");
+    System.out.println("Cool World");
 }
 }
